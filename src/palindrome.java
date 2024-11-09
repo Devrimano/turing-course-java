@@ -26,7 +26,7 @@ public class palindrome {
             reversedNum = reversedNum * 10 + digit;
             num /= 10;
         }
-
-        return originalNum == reversedNum;
+        System.out.println(" ");
+                   return originalNum == reversedNum;
     }
 }
