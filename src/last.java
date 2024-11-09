@@ -13,6 +13,7 @@ public class last {
 
         int FinalAnswer = smallestEvenMultiple(t);
         System.out.println(FinalAnswer);
+        System.out.println("NIGGA");
 
     }
 }       
